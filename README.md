@@ -14,13 +14,14 @@ This dashboard addresses the following key questions:
 9.	What are the average lead times?
 10.	Dashboard Interaction <a href="https://github.com/Rumkey988/Excel-Project/blob/main/inventory_dashboard.xlsx"> View Dashboard </a>    
 
-## Dashboard
-![dashboard](https://github.com/Rumkey988/Excel-Project/blob/main/dashboard.png)
 ## Process
 - Verified data for missing values and anomalies, and resolved them appropriately.
 - Ensured data consistency and cleanliness in terms of data types, formats, and values
 -	Created pivot tables according to the questions asked.
 -	Combined all pivot tables into a single dynamic dashboard using slicers.
+
+ ## Dashboard
+![dashboard](https://github.com/Rumkey988/Excel-Project/blob/main/dashboard.png) 
 
 ## Project Insights
 -	ABC-XYZ Analysis: Identified high-value, high-turnover products (A-X category) that drive revenue but require frequent replenishment.
