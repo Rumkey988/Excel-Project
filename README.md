@@ -13,7 +13,7 @@ This dashboard addresses the following key questions:
 8.	How many days on hand?
 9.	What are the average lead times?
 
-## Dashboard Interaction <a href=""> View Dashboard </a>    
+## Dashboard Interaction <a href="https://github.com/Rumkey988/Excel-Project/blob/main/inventory_dashboard.xlsx"> View Dashboard </a>    
 
 ## Process
 - Verified data for missing values and anomalies, and resolved them appropriately.
