@@ -12,9 +12,10 @@ This dashboard addresses the following key questions:
 7.	What is the turnover ratio?
 8.	How many days on hand?
 9.	What are the average lead times?
+10.	Dashboard Interaction <a href="https://github.com/Rumkey988/Excel-Project/blob/main/inventory_dashboard.xlsx"> View Dashboard </a>    
 
-## Dashboard Interaction <a href="https://github.com/Rumkey988/Excel-Project/blob/main/inventory_dashboard.xlsx"> View Dashboard </a>    
-
+## Dashboard
+<a href="https://github.com/Rumkey988/Excel-Project/blob/main/inventory_dashboard.xlsx"></a>
 ## Process
 - Verified data for missing values and anomalies, and resolved them appropriately.
 - Ensured data consistency and cleanliness in terms of data types, formats, and values
